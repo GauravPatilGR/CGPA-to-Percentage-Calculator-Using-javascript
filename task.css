@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Archivo+Black&family=Bebas+Neue&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,900&family=Bree+Serif&family=Caveat&family=Cinzel:wght@500&family=Cormorant:wght@300&family=Itim&family=Josefin+Sans&family=Jost&family=Kanit:wght@300&family=Lato:wght@400;700&family=Mitr:wght@200&family=Open+Sans:wght@300;400;500;700&family=Poppins:wght@500&family=Prompt:wght@200;400&family=Roboto+Mono&family=Roboto+Slab:wght@500&family=Rokkitt:wght@300&family=Saira+Semi+Condensed&display=swap');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;;
+}
+
+h2{
+    padding: 7px;
+}
+
+h1{
+    padding: 2px;
+    border-radius: 60px;
+}
+
+h1,h2:hover{
+    opacity: 0.9;
+}
+
+.footer a{
+    padding: 20px;
+    color: blue;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: black;
+}
+
+
