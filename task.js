@@ -10,7 +10,7 @@ function cgpaToPercentage() {
     return;
   }
 
-  const percentage = (cgpa - 0.5) * 10;
+  const percentage = (cgpa - 0.75) * 10;
   percentageInput.value = percentage.toFixed(2) + "%";
 }
 
